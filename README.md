@@ -15,10 +15,76 @@ but in proportion to the economic value removed
 by the change to proof of work.
 
 ## ASIC makers in early stages of development
-ASIC maker has invested into 
+If an ASIC maker has invested into developing 
+hardware, but has not begun selling the hardware
+or earning bitcoin fees by mining himself,
+the entirety of his investment would be destroyed
+with a PoW change.
+
+This is true for both malicous and benevolent
+ASIC makers, but if it could be determined
+the ratio of malicous ASIC makers to benevolent ASIC makers
+it is possible that the change could be timed 
+inorder to have a greater impact on malicous makers. 
+
+However, chip manufacturing is highly secretive,
+and determining intent is very difficult
+(especially with brand new entrants).
+As a result of these, and other challenges,
+no mechanism has been identified to reliably
+determine the ratio of malicous to benevolent 
+ASIC maker investments that would be destroyed
+through a PoW change at a given point in time.
+
 ## ASIC makers with products near end of life
+If an ASIC maker has made investments in hardware
+that is nearing obsolescence
+by the creation of more effecient hardware,
+they would actually benefit from a PoW change.
+
+This is because their competitors would be harmed
+finanically to the degree that they have investments
+that have not returned capital,
+whereas their own investments have already returned
+capital and are no longer producing additional revenue.
+
+It may be easier to determine makers with products
+nearing end of life to avoid harming them with financial loss
+with a PoW change,
+but those makers are in the best position to know
+how they would be effected and when a change would be most helpful.
+And we still lack a mechanism for reliably determining their
+future intent.
+
 ## Miners with newer specialized hardware
+Miners will be finanically damaged by a PoW change
+in proportion to the investments that they have made
+in mining hardware and facilities that will become
+unprofitable as a result of a PoW change.
+
+Miners with the most recent investments,
+new competitors,
+would be harmed the most
+because they have not had the opportunity to earn
+mining rewards and fees using the new hardware.
+
+## Miners with newer facilities investments
+It is possible that facilities could be reused 
+since they are not directly effected by a PoW change,
+however cooling, electrical, and space requirements
+could be drastically effected with a PoW change.
+
+To the degree to which these facilities are no longer
+as ideal, due to a PoW change,
+the miner will suffer financial loss.
+
+The newest facilities will be the most likely
+to be optimally designed for the current generation 
+of mining hardware,
+and therefore will be the most likely to suffer loss.
+
 ## Miners with older specialized hardware
+
 ## Physical and administrative centralization
 ## Resistance to physical and administrative centralization
 ## Resistance to malicous mining attacks
