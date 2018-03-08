@@ -103,7 +103,7 @@ This would be a security improvement
 because it would make 
 physical attacks on the network
 and the individuals managing the network,
-more more difficult.
+much more difficult.
 
 Unfortunately this is not guaranteed.
 It is concievable that a well funded 
