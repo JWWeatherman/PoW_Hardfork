@@ -84,9 +84,56 @@ of mining hardware,
 and therefore will be the most likely to suffer loss.
 
 ## Miners with older specialized hardware
+Miners with hardware nearing obsolescene 
+would benefit from a PoW change.
+This is because their competitors,
+would be damaged finanically
+(the best equiped competitors would be harmed the most)
+while they would not suffer financial loss.
 
 ## Physical and administrative centralization
+If a great majority of the existing mining hardware 
+is under the control of a single person,
+or is physically located in a small number of places,
+a PoW change could result in greater decentralization 
+(a larger number of indiviudals with administrative control
+and a larger number of physical locations).
+
+This would be a security improvement
+because it would make 
+physical attacks on the network
+and the individuals managing the network,
+more more difficult.
+
+Unfortunately this is not guaranteed.
+It is concievable that a well funded 
+malicous actor could make a large investment 
+in mining hardware that would have been 
+impossible before a PoW change.
+
+For example consider a large organization
+with large numbers of generic processors.
+It is possible that such an organization
+could not fund a massive investment in hardware
+that would become useless if their attack upon
+the bitcoin network was successful 
+at making the value of bitcoin drastically drop.
+
+However, if this organization uses generic processors
+for other uses it is concievable that it would be
+cost effective to temporarily redirect
+this equipment to attack the bitcoin network
+and return it to regular service after the attack is completed.
+
+This type of attack could have 
+a much lower risk for the attacker
+than specialized hardware and facilities.
+
 ## Resistance to physical and administrative centralization
+Immediately after a PoW change 
+
+
+
 ## Resistance to malicous mining attacks
 
 
