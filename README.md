@@ -93,7 +93,7 @@ while they would not suffer financial loss.
 
 ## Physical and administrative centralization
 If a great majority of the existing mining hardware 
-is under the control of a single person,
+is under the control of a few people,
 or is physically located in a small number of places,
 a PoW change could result in greater decentralization 
 (a larger number of indiviudals with administrative control
@@ -106,39 +106,93 @@ and the individuals managing the network,
 more more difficult.
 
 Unfortunately this is not guaranteed.
-It is concievable that a well funded 
-malicous actor could make a large investment 
-in mining hardware that would have been 
-impossible before a PoW change.
 
 For example consider a large organization
-with large numbers of generic processors.
-It is possible that such an organization
-could not fund a massive investment in hardware
-that would become useless if their attack upon
-the bitcoin network was successful 
-at making the value of bitcoin drastically drop.
+who's business is being disrupted by bitcoin.
+Before the PoW change they would have needed to
+make a large investment in hardware
+that is only useful 
+as long as bitcoin maintains market value.
 
-However, if this organization uses generic processors
-for other uses it is concievable that it would be
-cost effective to temporarily redirect
-this equipment to attack the bitcoin network
-and return it to regular service after the attack is completed.
+But after the PoW change they could use hardware
+that could be useful to their business, 
+or resold later,
+to attack bitcoin.
+If this business maintains a large number of servers
+that are idle except durring peak usage hours
+the costs are even lower.
 
-This type of attack could have 
-a much lower risk for the attacker
-than specialized hardware and facilities.
+In this example, 
+and others,
+it is possible that mining could become more centralized 
+after a PoW change.
+
+The authors are unaware how to measure the liklihood 
+of increased or decreased centralization immediately 
+following a PoW change.
 
 ## Resistance to physical and administrative centralization
-Immediately after a PoW change 
+Immediately after a PoW change
+it is possible that physical and administrative 
+centralization would be reduced,
+however it would also make bitcoin ASIC soft.
 
+Currently bitcoin mining equipment
+is operating at the height of human capability
+using 10 nm and below chipsets specifically designed
+to mine bitcoin as effeciently as possible.
+A PoW change would reduce bitcoin mining efforts 
+to more generic, and less efficient, mining hardware.
+
+As a result a well funded miner 
+could invest in ASIC hardware 
+and gain a disproportonate amount of control over the network.
+This is believed to be the source of 
+centralization problems as of Q1 2018.
+
+This illustrates the importance of reaching commoditization
+of state of the art hardware. 
+Attackers would need to advance the state of the art
+of microprocessors, 
+not just bitcoin miners,
+in order to obtain an advantage over the network.
+This is far more expensive
+and would be far more difficult 
+to accopmlish and maintain in secret.
 
 
 ## Resistance to malicous mining attacks
 
+Changing the PoW would have 
+three major effects on the networks resistance
+to malicous mining attacks.
 
+First, an attacker could invest
+in mining hardware and gain a disproportionate 
+amount of power of the network.
+So, while it is possible that the immediate effect
+of a PoW change would be physical and administrative decentralization,
+it would certainly make it much easier for a well funded
+attacker to create a high degree of centralization before executing his attack.
 
+Second, it would lower the hardware cost
+involved in malicous mining attacks.
+For example an attacker could,
+rent hardware from a clound server provider,
+such as Amazon EC3,
+for only long enough to execute his attack.
+This is far less expensive than purchasing hardware
+that will be less valuable in proportion to the success of the attack.
 
+Finally, it would greatly increase the possibility 
+of an attacker discovering a flaw in the PoW algorithim
+that would allow him to attack the network by faking work.
+Changing security critical components always
+introduce significant risk.
+The existing PoW algorithim has enjoyed
+the benefit of nearly a decade of attack and analysis,
+including the identification of vulnerabilities
+not discovered until after deployment.
 
 
 # Effects of an expectation of ongoing PoW changes
