@@ -14,16 +14,16 @@ will have the same effects,
 but in proportion to the economic value removed 
 by the change to proof of work.
 
-## ASIC makers in early stages of development
-If an ASIC maker has invested into developing 
+## Specialized hardware makers in early stages of development
+If an specialized hardware maker has invested into developing 
 hardware, but has not begun selling the hardware
 or earning bitcoin fees by mining himself,
 the entirety of his investment would be destroyed
 with a PoW change.
 
 This is true for both malicous and benevolent
-ASIC makers, but if it could be determined
-the ratio of malicous ASIC makers to benevolent ASIC makers
+specialized hardware makers, but if it could be determined
+the ratio of malicous specialized hardware makers to benevolent specialized hardware makers
 it is possible that the change could be timed 
 inorder to have a greater impact on malicous makers. 
 
@@ -33,11 +33,11 @@ and determining intent is very difficult
 As a result of these, and other challenges,
 no mechanism has been identified to reliably
 determine the ratio of malicous to benevolent 
-ASIC maker investments that would be destroyed
+specialized hardware maker investments that would be destroyed
 through a PoW change at a given point in time.
 
-## ASIC makers with products near end of life
-If an ASIC maker has made investments in hardware
+## Specialized hardware makers with products near end of life
+If an specialized hardware maker has made investments in hardware
 that is nearing obsolescence
 by the creation of more effecient hardware,
 they would actually benefit from a PoW change.
@@ -91,7 +91,7 @@ would be damaged finanically
 (the best equiped competitors would be harmed the most)
 while they would not suffer financial loss.
 
-## Physical and administrative centralization
+## Physical and administrative centralization of bitcoin
 If a great majority of the existing mining hardware 
 is under the control of a few people,
 or is physically located in a small number of places,
@@ -131,11 +131,11 @@ The authors are unaware how to measure the liklihood
 of increased or decreased centralization immediately 
 following a PoW change.
 
-## Resistance to physical and administrative centralization
+## Bitcoin's resistance to physical and administrative centralization
 Immediately after a PoW change
 it is possible that physical and administrative 
 centralization would be reduced,
-however it would also make bitcoin ASIC soft.
+however it would also make bitcoin specialized hardware soft.
 
 Currently bitcoin mining equipment
 is operating at the height of human capability
@@ -145,7 +145,7 @@ A PoW change would reduce bitcoin mining efforts
 to more generic, and less efficient, mining hardware.
 
 As a result a well funded miner 
-could invest in ASIC hardware 
+could invest in specialized hardware hardware 
 and gain a disproportonate amount of control over the network.
 This is believed to be the source of 
 centralization problems as of Q1 2018.
@@ -161,7 +161,221 @@ and would be far more difficult
 to accopmlish and maintain in secret.
 
 
-## Resistance to malicous mining attacks
+## Bitcoin's Resistance to malicous mining attacks
+
+Changing the PoW would have 
+three major effects on the networks resistance
+to malicous mining attacks.
+
+First, an attacker could invest
+in mining hardware and gain a disproportionate 
+amount of power of the network.
+So, while it is possible that the immediate effect
+of a PoW change would be physical and administrative decentralization,
+it would certainly make it much easier for a well funded
+attacker to create a high degree of centralization before executing his attack.
+
+Second, it would lower the hardware cost
+involved in malicous mining attacks.
+For example an attacker could,
+rent hardware from a clound server provider,
+such as Amazon EC3,
+for only long enough to execute his attack.
+This is far less expensive than purchasing hardware
+that will be less valuable in proportion to the success of the attack.
+
+Finally, it would greatly increase the possibility 
+of an attacker discovering a flaw in the PoW algorithim
+that would allow him to attack the network by faking work.
+Changing security critical components always
+introduce significant risk.
+The existing PoW algorithim has enjoyed
+the benefit of nearly a decade of attack and analysis,
+including the identification of vulnerabilities
+not discovered until after deployment.
+
+## Speed of commoditization of cutting edge specialty hardware
+
+After years of research and development
+bitcoin mining hardware is nearing,
+or at,
+state of the art with regard to chip design.
+
+If profits continue of specialty hardware makers
+competition will increase,
+profit margins will decrease,
+and we will see commoditization of 
+bitcoin mining hardware created using the
+height of human ability.
+
+Changing the PoW algorithim would slow this achievement
+by several years.
+
+
+# Effects of the expectation of regular PoW changes 
+Creating the expectation of regular PoW changes
+would have effects in addition to the effects
+resulting from a one-off PoW change.
+
+In this case the uncertainty created by the possibity 
+that another PoW change would occur
+would be replaced by the reality that 
+investing in specialized hardware would 
+only be profitable if the cost of development
+could be recoverd through sales or mining rewards
+before the next expected PoW change.
+
+The motivation for creating this expectation
+is to discourage investment into specialized hardware
+and therefore to create a "more equal" competition 
+among miners with generic and specialized hardware.
+
+In the most extreeme case the PoW changes would 
+be so varied and often that 
+specialized hardware,
+of any kind,
+would not be profitable.
+
+## Specialized hardware makers
+In all cases specialty hardware makers would remain.
+If the variation of mining algorithims is 
+expected to be great the speciality hardware makers
+could be employees of the miners themselves.
+Any changes to the mining algorithim at all
+would likely result in disk, memory, cooling or other requirements. 
+Optimization of some form will always be present.
+
+If the variation of the mining algorithim is 
+expected to vary within a range of possibilities
+specialized mining hardware will simply focus on 
+the optimal design to address that range of possible algorithims.
+
+However this expectation would be successful
+at increasing the amount of uncertainty
+for speciality hardware makers
+beyond a one-time PoW change.
+As a result there will be fewer competitors
+all other things (namely profits) being equal.
+
+The net effect of this is that while
+a one-off change would delay commoditization
+of state of the art specialty mining hardware,
+the expectation of regular changes to PoW,
+would prevent this from occuring as long as
+the expectation was maintained.
+
+## Bitcoin miners
+Currently bitcoin miners are primarily concerned
+with obtaining cheap electricity 
+and access to the best mining hardware available.
+
+Labor costs are currently a minor expense,
+but if the PoW algorithim changes often
+this will be a greater portion of their expeneses.
+This will result in mining operations tending 
+to move to areas with cheaper labor costs.
+
+Uncertainty is also increased because
+miners will need to account for obtaining 
+speciality hardware more often (already a major risk),
+and maintaining security in more dangerous areas of the world, 
+due to cheaper labor.
+Income will also be less certain
+as some miners will be better equiped for the next PoW change than others.
+
+As a result miners will invest less 
+into securing the bitcoin network
+all other things equal.
+
+## Physical and administrative centralization of bitcoin
+While it is possible this expectation
+would result in greater administrative and 
+physical centralization of bitcoin mining,
+as in the case of a one-off change,
+it is by no means guaranteed,
+and we lack a way to determine the liklihood 
+that it will be an improvement.
+
+
+
+
+
+
+
+Because the best hardware would be unprofitable only malicous actors would go after it.
+
+
+
+If a great majority of the existing mining hardware 
+is under the control of a few people,
+or is physically located in a small number of places,
+a PoW change could result in greater decentralization 
+(a larger number of indiviudals with administrative control
+and a larger number of physical locations).
+
+This would be a security improvement
+because it would make 
+physical attacks on the network
+and the individuals managing the network,
+more more difficult.
+
+Unfortunately this is not guaranteed.
+
+For example consider a large organization
+who's business is being disrupted by bitcoin.
+Before the PoW change they would have needed to
+make a large investment in hardware
+that is only useful 
+as long as bitcoin maintains market value.
+
+But after the PoW change they could use hardware
+that could be useful to their business, 
+or resold later,
+to attack bitcoin.
+If this business maintains a large number of servers
+that are idle except durring peak usage hours
+the costs are even lower.
+
+In this example, 
+and others,
+it is possible that mining could become more centralized 
+after a PoW change.
+
+The authors are unaware how to measure the liklihood 
+of increased or decreased centralization immediately 
+following a PoW change.
+
+## Bitcoin's resistance to physical and administrative centralization
+Immediately after a PoW change
+it is possible that physical and administrative 
+centralization would be reduced,
+however it would also make bitcoin specialized hardware soft.
+
+Currently bitcoin mining equipment
+is operating at the height of human capability
+using 10 nm and below chipsets specifically designed
+to mine bitcoin as effeciently as possible.
+A PoW change would reduce bitcoin mining efforts 
+to more generic, and less efficient, mining hardware.
+
+As a result a well funded miner 
+could invest in specialized hardware hardware 
+and gain a disproportonate amount of control over the network.
+This is believed to be the source of 
+centralization problems as of Q1 2018.
+
+This illustrates the importance of reaching commoditization
+of state of the art hardware. 
+Attackers would need to advance the state of the art
+of microprocessors, 
+not just bitcoin miners,
+in order to obtain an advantage over the network.
+This is far more expensive
+and would be far more difficult 
+to accopmlish and maintain in secret.
+
+
+## Bitcoin's Resistance to malicous mining attacks
 
 Changing the PoW would have 
 three major effects on the networks resistance
@@ -195,12 +409,13 @@ including the identification of vulnerabilities
 not discovered until after deployment.
 
 
-# Effects of an expectation of ongoing PoW changes
-## ASIC makers in early stages of development
-## ASIC makers with products near end of life
-## Miners with newer specialized hardware
-## Miners with older specialized hardware
-## Physical and administrative centralization
-## Resistance to physical and administrative centralization
-## Resistance to malicous mining attacks
+## Additional attack vectors
+- Such as developers pushing for a mining algo that would benefit a given
+miner or a given attacker.
+
+## Verification of PoW
+Would be greatly hindered.
+
+## Trustworthiness of PoW
+Algorithims would never be fully tested or trustworthy.
 
